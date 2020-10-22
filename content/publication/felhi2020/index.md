@@ -24,7 +24,7 @@ abstract: "Even though Variational Autoencoders (VAEs) are widely used for semi-
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [	"Machine Learning (cs.LG)", "Computation and Language (cs.CL)"]
+tags: [	"Machine Learning (cs.LG)", "Computation and Language (cs.CL)", "Variational Autoencoders", "semi-supervised"]
 categories: []
 featured: false
 

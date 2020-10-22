@@ -24,7 +24,7 @@ abstract: "New technologies drastically change recruitment techniques. Some rese
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["Affective Computing", "Hierarchical Attention Networks", "Multimodal"]
 categories: []
 featured: false
 

@@ -24,7 +24,7 @@ abstract: "Recent advances in deep generative models based on convolutional neur
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["Generative Adversarial Networks", "Image Inpainting", "Scanning Electron Microscopy"]
 categories: []
 featured: false
 

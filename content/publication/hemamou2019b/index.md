@@ -25,7 +25,7 @@ abstract: "The impact of non verbal behaviour in a hiring decision remains an op
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["Affective Computing", "Hierarchical Attention Networks", "Explainability"]
 categories: []
 featured: false
 
