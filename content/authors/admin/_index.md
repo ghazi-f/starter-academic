@@ -1,7 +1,7 @@
 ---
 title: Ghazi FELHI
 role: Ph.D Student in Natural Language Processing
-avatar_filename: photo-indiv-er-round_0020_21.png
+avatar_filename: avatar.png
 bio: Previously training ML models for HR tasks, currently throwing VAEs at
   every NLP problem.
 interests:
