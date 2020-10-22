@@ -13,7 +13,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/GFelhi
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=ODzuOSQAAAAJ&hl=fr
   - icon: github
     icon_pack: fab
