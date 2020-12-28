@@ -38,7 +38,7 @@ user_groups:
   - ""
 highlight_name: false
 ---
-I am a PhD student at [LIPN](https://lipn.univ-paris13.fr/), working under the supervision of [Joseph Leroux](https://lipn.univ-paris13.fr/~leroux/). My grant is part of the [PARSITI](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-43ddacb159/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=b64962ed2dd408fd110e35e193667779) project. I am mostly interested in the applications of Variational Autoencoders (VAEs) on Natural Language processing. As such, I work on semi-supervised learning with deep latent variable models, disentanglement, and denoising.
+I am a PhD student at [LIPN](https://lipn.univ-paris13.fr/), working under the supervision of [Joseph Le Roux](https://lipn.univ-paris13.fr/~leroux/). My grant is part of the [PARSITI](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-43ddacb159/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=b64962ed2dd408fd110e35e193667779) project. I am mostly interested in the applications of Variational Autoencoders (VAEs) on Natural Language processing. As such, I work on semi-supervised learning with deep latent variable models, disentanglement, and denoising.
 I am also currently a lab supervisor for the course [Machine Learning for NLP](https://nlp-ensae.github.io/) at ENSAE-IPP.
 
 Before starting my Ph.D journey, I was working closely with [Leo Hemamou](https://lhemamou.github.io/)  to try and help the Human Ressources industry with fair, [IO Psychology](https://en.wikipedia.org/wiki/Industrial_and_organizational_psychology) based machine learning models.
