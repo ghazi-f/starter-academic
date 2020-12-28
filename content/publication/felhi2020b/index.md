@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Controlling the Interaction Between Generation and Inference in Semi-Supervised Variational Autoencoders Using Importance Weighting"
+title: "Disentangling semantics in language throughs VAEs and a certain architectural choice"
 authors: ["Ghazi Felhi", "Joseph Le Roux", "Djamé Seddah"]
 date: 2020-10-22T15:48:13+02:00
 doi: ""
@@ -19,12 +19,12 @@ publication_types: ["3"]
 publication: _Arxiv_
 publication_short: 
 
-abstract: "Even though Variational Autoencoders (VAEs) are widely used for semi-supervised learning, the reason why they work remains unclear. In fact, the addition of the unsupervised objective is most often vaguely described as a regularization. The strength of this regularization is controlled by down-weighting the objective on the unlabeled part of the training set. Through an analysis of the objective of semi-supervised VAEs, we observe that they use the posterior of the learned generative model to guide the inference model in learning the partially observed latent variable. We show that given this observation, it is possible to gain finer control on the effect of the unsupervised objective on the training procedure. Using importance weighting, we derive two novel objectives that prioritize either one of the partially observed latent variable, or the unobserved latent variable. Experiments on the IMDB english sentiment analysis dataset and on the AG News topic classification dataset show the improvements brought by our prioritization mechanism and exhibit a behavior that is inline with our description of the inner working of Semi-Supervised VAEs."
+abstract: "We present an unsupervised method to obtain disentangled representations of sentences that single out semantic content. Using modified Transformers as building blocks, we train a Variational Autoencoder to translate the sentence to a fixed number of hierarchically structured latent variables. We study the influence of each latent variable in generation on the dependency structure of sentences, and on the predicate structure it yields when passed through an Open Information Extraction model. Our model could separate verbs, subjects, direct objects, and prepositional objects into latent variables we identified. We show that varying the corresponding latent variables results in varying these elements in sentences, and that swapping them between couples of sentences leads to the expected partial semantic swap."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [	"Machine Learning (cs.LG)", "Computation and Language (cs.CL)", "Variational Autoencoders", "semi-supervised"]
+tags: [	"Machine Learning (cs.LG)", "Computation and Language (cs.CL)", "Variational Autoencoders", "Disentanglement"]
 categories: []
 featured: false
 
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2010.06549
-url_code: https://github.com/ghazi-f/SSPIWO
+url_pdf: https://arxiv.org/pdf/2012.13031
+url_code: https://github.com/ghazi-f/Disentanglement_Transformer
 url_dataset:
 url_poster:
 url_project:
