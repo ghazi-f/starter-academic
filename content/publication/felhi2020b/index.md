@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Disentangling semantics in language throughs VAEs and a certain architectural choice"
+title: "Disentangling semantics in language through VAEs and a certain architectural choice"
 authors: ["Ghazi Felhi", "Joseph Le Roux", "Djamé Seddah"]
 date: 2020-12-24T15:48:13+02:00
 doi: ""
