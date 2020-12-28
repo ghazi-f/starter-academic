@@ -3,7 +3,7 @@
 
 title: "Disentangling semantics in language throughs VAEs and a certain architectural choice"
 authors: ["Ghazi Felhi", "Joseph Le Roux", "Djamé Seddah"]
-date: 2020-10-22T15:48:13+02:00
+date: 2020-12-24T15:48:13+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

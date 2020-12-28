@@ -3,11 +3,11 @@
 
 title: "HireNet: A Hierarchical Attention Model for the Automatic Analysis of Asynchronous Video Job Interviews"
 authors: ["Léo Hemamou", "Ghazi Felhi", "Vincent Vandenbussche", "Jean-Claude Martin", "Chloé Clavel"]
-date: 2019-10-22T15:49:04+02:00
+date: 2019-01-10T15:49:04+02:00
 doi: "10.1609/aaai.v33i01.3301573"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-22T15:49:04+02:00
+publishDate: 2019-01-10T15:49:04+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

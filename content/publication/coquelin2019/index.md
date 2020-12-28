@@ -3,11 +3,11 @@
 
 title: "Towards the use of deep generative models for the characterization in size of aggregated TiO2 nanoparticles measured by Scanning Electron Microscopy (SEM)"
 authors: ["Loïc Coquelin", "Nicolas Fischer", "Nicolas Feltin", "Laurent Devoille", "Ghazi Felhi"]
-date: 2019-10-22T15:49:13+02:00
+date: 2019-04-22T15:49:13+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-22T15:49:13+02:00
+publishDate: 2019-04-22T15:49:13+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
