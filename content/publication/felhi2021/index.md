@@ -16,7 +16,7 @@ publishDate: 2021-09-15T15:48:13+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Workshop on Insights from Negative Results
+publication: Proceedings of the Second Workshop on Insights from Negative Results in NLP
 publication_short: Insights
 
 abstract: "Semi-Supervised Variational Autoencoders (SSVAEs) are widely used models for data efficient learning. In this paper, we question the adequacy of the standard design of sequence SSVAEs for the task of text classification as we exhibit two sources of overcomplexity for which we provide simplifications. These simplifications to SSVAEs preserve their theoretical soundness while providing a number of practical advantages in the semi-supervised setup where the result of training is a text classifier. These simplifications are the removal of (i) the Kullback-Liebler divergence from its objective and (ii) the fully unobserved latent variable from its probabilistic model. These changes relieve users from choosing a prior for their latent variables, make the model smaller and faster, and allow for a better flow of information into the latent variables. We compare the simplified versions to standard SSVAEs on 4 text classification tasks. On top of the above-mentioned simplification, experiments show a speed-up of 26%, while keeping equivalent classification scores. The code to reproduce our experiments is public."
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2109.12969
+url_pdf: https://aclanthology.org/2021.insights-1.19/
 url_code: https://github.com/ghazi-f/Challenging-SSVAEs
 url_dataset:
 url_poster:
