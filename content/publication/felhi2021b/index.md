@@ -24,7 +24,7 @@ abstract: "Linking neural representations to linguistic factors is crucial in or
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [	"Machine Learning (cs.LG)", "Computation and Language (cs.CL)", "Variational Autoencoders", "Disentanglement", "Unsupervised Learning]
+tags: [	"Machine Learning (cs.LG)", "Computation and Language (cs.CL)", "Variational Autoencoders", "Disentanglement", "Unsupervised Learning"]
 categories: []
 featured: false
 
