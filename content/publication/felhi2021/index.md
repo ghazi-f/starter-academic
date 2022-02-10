@@ -4,7 +4,7 @@
 title: "Challenging the Semi-Supervised VAE Framework for Text Classification"
 authors: ["Ghazi Felhi", "Joseph Le Roux", "Djamé Seddah"]
 date: 2021-09-15T15:48:13+02:00
-doi: ""
+doi: "10.18653/v1/2021.insights-1.19"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-09-15T15:48:13+02:00
