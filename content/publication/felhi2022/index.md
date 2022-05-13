@@ -3,7 +3,7 @@
 
 title: "Exploiting Inductive Bias in Transformers for Unsupervised Disentanglement of Syntax and Semantics with VAEs"
 authors: ["Ghazi Felhi", "Joseph Le Roux", "Djamé Seddah"]
-date: 2021-12-13T15:48:13+02:00
+date: 2022-05-12T15:48:13+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
