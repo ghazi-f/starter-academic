@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2205.05943
+url_pdf: https://aclanthology.org/2022.naacl-main.423/
 url_code: https://github.com/ghazi-f/ADVAE
 url_dataset:
 url_poster:
