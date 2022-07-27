@@ -39,7 +39,7 @@ featured: false
 url_pdf: https://ctrlgenworkshop.github.io/camready/21/CameraReady/CTRLGEN%20(7).pdf
 url_code: https://github.com/ghazi-f/ADVAE
 url_dataset:
-url_poster:
+url_poster: https://drive.google.com/file/d/1HYNMpIee1UJXdL97BqMINXTMuvciIKCZ/view?usp=sharing
 url_project:
 url_slides:
 url_source:
