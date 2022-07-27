@@ -39,11 +39,11 @@ featured: false
 url_pdf: https://aclanthology.org/2021.insights-1.19/
 url_code: https://github.com/ghazi-f/Challenging-SSVAEs
 url_dataset:
-url_poster:
+url_poster: https://drive.google.com/file/d/1vjGTPgRjLzwXCHzzSEr3k-ZpeECG8D_p/view?usp=sharing
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: https://underline.io/lecture/39464-challenging-the-semi-supervised-vae-framework-for-text-classification
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
