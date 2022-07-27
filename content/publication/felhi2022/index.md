@@ -42,9 +42,9 @@ url_code: https://github.com/ghazi-f/ADVAE
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: https://drive.google.com/file/d/18C-KbIZ66EcM0CF8uwb7V1IueYfPWJx0/view?usp=sharing
 url_source:
-url_video:
+url_video: https://screencast-o-matic.com/watch/c31Fj2V3dqA
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
